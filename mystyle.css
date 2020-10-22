@@ -8,10 +8,8 @@
       color: white;
       font-style: oblique;
 }
-   .center{
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-      }
+ul{
+    list-style-type: square;
+}
       </style>
 
