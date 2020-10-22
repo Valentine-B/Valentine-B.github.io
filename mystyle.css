@@ -1,8 +1,16 @@
-h1{
-  p.fancy{
-    color:#666;
-    font-style: oblique;
-  background-color:#000;
-  color:#fff;
-  font-size:3em;
-}
+<style>
+    body{
+      background-color: turquoise;
+      color: black;
+    }
+    h1{
+      background-color: black;
+      color: white;
+      font-style: oblique;
+      .center{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+      }
+      </style>
+
